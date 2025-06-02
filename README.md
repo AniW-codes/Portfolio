@@ -1,7 +1,7 @@
 # Covid Project
 
 ## Objective
-The goal of this project is to analyze the data trends during Covid in the period of 2020 and 2021.
+The goal of this project is to analyze the data trends during Covid in the period of 2020 and 2021 and simultaneously build visualisations in Tableau.
 
 Level: Beginner
 
