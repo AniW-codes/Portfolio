@@ -3,7 +3,7 @@
 ## Objective
 The goal of this project is to analyze the data trends during Covid in the period of 2020 and 2021 and simultaneously build visualisations in Tableau.
 
-Level: Beginner
+**Level: Beginner**
 
 **Tableau Analysis** : [Tableau Dashboard](https://public.tableau.com/views/CovidDashboard2020-2021_17440553745980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
